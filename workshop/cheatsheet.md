@@ -11,7 +11,7 @@ Plain text typed into a passage is simply printed out.There's all kinds of ways 
 `<a href="mailto:someone@example.com?Subject=Hello%20again">Send Mail</a>`
 
 #### adding images
-`<img src="http://bookhaven.stanford.edu/wp-content/uploads/2013/08/Borges2.jpg" width="300">
+`<img src="http://bookhaven.stanford.edu/wp-content/uploads/2013/08/Borges2.jpg" width="300">`
 
 #### Complete web objects
 
