@@ -75,7 +75,7 @@ with the organic letters inside: punctual, delicate, perfectly black,
 inimitably symmetrical.
 
 Second: *The orthographical symbols are twenty-five in number.*
-<sup>[(1)](#footnote1)</sup> This finding made it possible, three hundred years
+[(1)](#footnote1) This finding made it possible, three hundred years
 ago, to formulate a general theory of the Library and solve
 satisfactorily the problem which no conjecture had deciphered: the
 formless and chaotic nature of almost all the books. One which my father
@@ -109,7 +109,7 @@ accepted, though not in the sense in which it was formulated by its
 originators.
 
 Five hundred years ago, the chief of an upper hexagon
-<sup>[(2)](#footnote2)</sup> came upon a book as confusing as the others, but
+[(2)](#footnote2) came upon a book as confusing as the others, but
 which had nearly two pages of homogeneous lines. He showed his find to a
 wandering decoder who told him the lines were written in Portuguese;
 others said they were Yiddish. Within a century, the language was
@@ -208,7 +208,7 @@ regressive method: To locate book A, consult first book B which
 indicates A's position; to locate book B, consult first a book C, and so
 on to infinity ... In adventures such as these, I have squandered and
 wasted my years. It does not seem unlikely to me that there is a total
-book on some shelf of the universe; <sup>[]()[(3)](#footnote3)</sup> I pray to the
+book on some shelf of the universe; []()[(3)](#footnote3) I pray to the
 unknown gods that a man -- just one, even though it were thousands of
 years ago! -- may have examined and read it. If honor and wisdom and
 happiness are not for me, let them be for others. Let heaven exist,
@@ -269,7 +269,7 @@ who imagine it to be without limit forget that the possible number of
 books does have such a limit. I venture to suggest this solution to the
 ancient problem: *The Library is unlimited and cyclical.* If an eternal
 traveler were to cross it in any direction, after centuries he would see
-this elegant hope. <sup>[(4)](#footnote4)</sup>
+this elegant hope. [(4)](#footnote4)
 
 *Translated by J. E. I.*
      
