@@ -1,6 +1,4 @@
-# Twine Cheat-sheet
-
-## Basic code commands
+### Twine Cheat-sheet
 
 Plain text typed into a passage is simply printed out.There's all kinds of ways of changing that text and how it behaves.  What's really exciting is that you can put any `<html></html>` you want in the passage
 
@@ -136,12 +134,10 @@ Strong emphasis | `**text**` |  **text** | `<strong>text</strong>`
 Superscript | `meters/second^^2^^` | meters/second^2^ | `meters/second<sup>2</sup>`
 
 #### Example usage: {#example-usage-}
-
-'''
+```
     You //can't// be serious! I have to go through the ''whole game''
     again? ^^Jeez, louise!^^
-
-'''
+```
 
 There's a whole lot more in the [Harlowe Documentation](http://twine2.neocities.org/) and from [these links](https://pinboard.in/u:cheapjack/t:twine/t:tools) and from https://pinboard.in/u:cheapjack/t:crackingthecode
 
