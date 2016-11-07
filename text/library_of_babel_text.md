@@ -1,15 +1,10 @@
----
-title: The Library of Babel
----
 
-\
 
-The Library of Babel
+### The Library of Babel
 
-\
 ![](https://libraryofbabel.info/img/hexgrau.jpg)
 
-             by Jorge Luis Borges
+**by Jorge Luis Borges**
 
 ------------------------------------------------------------------------
 
@@ -18,7 +13,6 @@ By this art you may contemplate the variations of the 23 letters...\
 
 ------------------------------------------------------------------------
 
-\
 The universe (which others call the Library) is composed of an
 indefinite and perhaps infinite number of hexagonal galleries, with vast
 air shafts between, surrounded by very low railings. From any of the
@@ -38,8 +32,9 @@ illusory duplication?); I prefer to dream that its polished surfaces
 represent and promise the infinite ... Light is provided by some
 spherical fruit which bear the name of lamps. There are two,
 transversally placed, in each hexagon. The light they emit is
-insufficient, incessant.\
-      Like all men of the Library, I have traveled in my youth; I have
+insufficient, incessant.
+
+Like all men of the Library, I have traveled in my youth; I have
 wandered in search of a book, perhaps the catalogue of catalogues; now
 that my eyes can hardly decipher what I write, I am preparing to die
 just a few leagues from the hexagon in which I was born. Once I am dead,
@@ -55,8 +50,9 @@ continuous and which follows the complete circle of the walls; but their
 testimony is suspect; their words, obscure. This cyclical book is God.)
 Let it suffice now for me to repeat the classic dictum: *The Library is
 a sphere whose exact center is any one of its hexagons and whose
-circumference is inaccessible.*\
-      There are five shelves for each of the hexagon's walls; each shelf
+circumference is inaccessible.
+
+There are five shelves for each of the hexagon's walls; each shelf
 contains thirty-five books of uniform format; each book is of four
 hundred and ten pages; each page, of forty lines, each line, of some
 eighty letters which are black in color. There are also letters on the
@@ -64,8 +60,9 @@ spine of each book; these letters do not indicate or prefigure what the
 pages will say. I know that this incoherence at one time seemed
 mysterious. Before summarizing the solution (whose discovery, in spite
 of its tragic projections, is perhaps the capital fact in history) I
-wish to recall a few axioms.\
-      First: The Library exists *ab aeterno.* This truth, whose
+wish to recall a few axioms.
+
+First: The Library exists *ab aeterno.* This truth, whose
 immediate corollary is the future eternity of the world, cannot be
 placed in doubt by any reasonable mind. Man, the imperfect librarian,
 may be the product of chance or of malevolent demiurgi; the universe,
@@ -75,9 +72,10 @@ librarian, can only be the work of a god. To perceive the distance
 between the divine and the human, it is enough to compare these crude
 wavering symbols which my fallible hand scrawls on the cover of a book,
 with the organic letters inside: punctual, delicate, perfectly black,
-inimitably symmetrical.\
-      Second: *The orthographical symbols are twenty-five in number.*
-[]()[(1)](#footnote1) This finding made it possible, three hundred years
+inimitably symmetrical.
+
+Second: *The orthographical symbols are twenty-five in number.*
+<sup>[(1)](#footnote1)</sup> This finding made it possible, three hundred years
 ago, to formulate a general theory of the Library and solve
 satisfactorily the problem which no conjecture had deciphered: the
 formless and chaotic nature of almost all the books. One which my father
@@ -93,8 +91,9 @@ books and equate it with that of finding a meaning in dreams or in the
 chaotic lines of one's palm ... They admit that the inventors of this
 writing imitated the twenty-five natural symbols, but maintain that this
 application is accidental and that the books signify nothing in
-themselves. This dictum, we shall see, is not entirely fallacious.)\
-      For a long time it was believed that these impenetrable books
+themselves. This dictum, we shall see, is not entirely fallacious.)
+
+For a long time it was believed that these impenetrable books
 corresponded to past or remote languages. It is true that the most
 ancient men, the first librarians, used a language quite different from
 the one we now speak; it is true that a few miles to the right the
@@ -107,9 +106,10 @@ the third line of page 71 was not the one the same series may have in
 another position on another page, but this vague thesis did not prevail.
 Others thought of cryptographs; generally, this conjecture has been
 accepted, though not in the sense in which it was formulated by its
-originators.\
-      Five hundred years ago, the chief of an upper hexagon
-[]()[(2)](#footnote2) came upon a book as confusing as the others, but
+originators.
+
+Five hundred years ago, the chief of an upper hexagon
+<sup>[(2)](#footnote2)</sup> came upon a book as confusing as the others, but
 which had nearly two pages of homogeneous lines. He showed his find to a
 wandering decoder who told him the lines were written in Portuguese;
 others said they were Yiddish. Within a century, the language was
@@ -133,8 +133,9 @@ demonstration of the fallacy of the true catalogue, the Gnostic gospel
 of Basilides, the commentary on that gospel, the commentary on the
 commentary on that gospel, the true story of your death, the translation
 of every book in all languages, the interpolations of every book in all
-books.\
-      When it was proclaimed that the Library contained all books, the
+books.
+
+When it was proclaimed that the Library contained all books, the
 first impression was one of extravagant happiness. All men felt
 themselves to be the masters of an intact and secret treasure. There was
 no personal or world problem whose eloquent solution did not exist in
@@ -152,8 +153,9 @@ regions. Others went mad ... The Vindications exist (I have seen two
 which refer to persons of the future, to persons who are perhaps not
 imaginary) but the searchers did not remember that the possibility of a
 man's finding his Vindication, or some treacherous variation thereof,
-can be computed as zero.\
-      At that time it was also hoped that a clarification of humanity's
+can be computed as zero.
+
+At that time it was also hoped that a clarification of humanity's
 basic mysteries -- the origin of the Library and of time -- might be
 found. It is verisimilar that these grave mysteries could be explained
 in words: if the language of philosophers is not sufficient, the
@@ -165,8 +167,9 @@ they always arrive extremely tired from their journeys; they speak of a
 broken stairway which almost killed them; they talk with the librarian
 of galleries and stairs; sometimes they pick up the nearest volume and
 leaf through it, looking for infamous words. Obviously, no one expects
-to discover anything.\
-      As was natural, this inordinate hope was followed by an excessive
+to discover anything.
+
+As was natural, this inordinate hope was followed by an excessive
 depression. The certitude that some shelf in some hexagon held precious
 books and that these precious books were inaccessible, seemed almost
 intolerable. A blasphemous sect suggested that the searches should cease
@@ -175,23 +178,25 @@ constructed, by an improbable gift of chance, these canonical books. The
 authorities were obliged to issue severe orders. The sect disappeared,
 but in my childhood I have seen old men who, for long periods of time,
 would hide in the latrines with some metal disks in a forbidden dice cup
-and feebly mimic the divine disorder.\
-      Others, inversely, believed that it was fundamental to eliminate
+and feebly mimic the divine disorder.
+
+Others, inversely, believed that it was fundamental to eliminate
 useless works. They invaded the hexagons, showed credentials which were
 not always false, leafed through a volume with displeasure and condemned
 whole shelves: their hygienic, ascetic furor caused the senseless
 perdition of millions of books. Their name is execrated, but those who
-deplore the \`\`treasures'' destroyed by this frenzy neglect two notable
+deplore the `treasures` destroyed by this frenzy neglect two notable
 facts. One: the Library is so enormous that any reduction of human
 origin is infinitesimal. The other: every copy is unique, irreplaceable,
 but (since the Library is total) there are always several hundred
 thousand imperfect facsimiles: works which differ only in a letter or a
 comma. Counter to general opinion, I venture to suppose that the
-consequences of the Purifiers' depredations have been exaggerated by the
+consequences of the Purifiers depredations have been exaggerated by the
 horror these fanatics produced. They were urged on by the delirium of
 trying to reach the books in the Crimson Hexagon: books whose format is
-smaller than usual, all-powerful, illustrated and magical.\
-      We also know of another superstition of that time: that of the Man
+smaller than usual, all-powerful, illustrated and magical.
+
+We also know of another superstition of that time: that of the Man
 of the Book. On some shelf in some hexagon (men reasoned) there must
 exist a book which is the formula and perfect compendium *of all the
 rest:* some librarian has gone through it and he is analogous to a god.
@@ -203,7 +208,7 @@ regressive method: To locate book A, consult first book B which
 indicates A's position; to locate book B, consult first a book C, and so
 on to infinity ... In adventures such as these, I have squandered and
 wasted my years. It does not seem unlikely to me that there is a total
-book on some shelf of the universe; []()[(3)](#footnote3) I pray to the
+book on some shelf of the universe; <sup>[]()[(3)](#footnote3)</sup> I pray to the
 unknown gods that a man -- just one, even though it were thousands of
 years ago! -- may have examined and read it. If honor and wisdom and
 happiness are not for me, let them be for others. Let heaven exist,
@@ -224,13 +229,12 @@ best volume of the many hexagons under my administration is entitled
 *Axaxaxas mlö.* These phrases, at first glance incoherent, can no doubt
 be justified in a cryptographical or allegorical manner; such a
 justification is verbal and, *ex hypothesi,* already figures in the
-Library. I cannot combine some characters\
-     
+Library. I cannot combine some characters     
 
 *dhcmrlchtdj*
 
-\
-      which the divine Library has not foreseen and which in one of its
+
+which the divine Library has not foreseen and which in one of its
 secret tongues do not contain a terrible meaning. No one can articulate
 a syllable which is not filled with tenderness and fear, which is not,
 in one of these languages, the powerful name of a god. To speak is to
@@ -241,8 +245,9 @@ languages use the same vocabulary; in some of them, the symbol *library*
 allows the correct definition *a ubiquitous and lasting system of
 hexagonal galleries,* but *library* is *bread* or *pyramid* or anything
 else, and these seven words which define it have another value. You who
-read me, are You sure of understanding my language?)\
-      The methodical task of writing distracts me from the present state
+read me, are You sure of understanding my language?)
+
+The methodical task of writing distracts me from the present state
 of men. The certitude that everything has been written negates us or
 turns us into phantoms. I know of districts in which the young men
 prostrate themselves before books and kiss their pages in a barbarous
@@ -253,8 +258,9 @@ suicides, more and more frequent with the years. Perhaps my old age and
 fearfulness deceive me, but I suspect that the human species -- the
 unique species -- is about to be extinguished, but the Library will
 endure: illuminated, solitary, infinite, perfectly motionless, equipped
-with precious volumes, useless, incorruptible, secret.\
-      I have just written the word \`\`infinite.'' I have not
+with precious volumes, useless, incorruptible, secret.
+
+I have just written the word `infinite`. I have not
 interpolated this adjective out of rhetorical habit; I say that it is
 not illogical to think that the world is infinite. Those who judge it to
 be limited postulate that in remote places the corridors and stairways
@@ -263,10 +269,9 @@ who imagine it to be without limit forget that the possible number of
 books does have such a limit. I venture to suggest this solution to the
 ancient problem: *The Library is unlimited and cyclical.* If an eternal
 traveler were to cross it in any direction, after centuries he would see
-that the same volumes were repeated in the same disorder (which, thus
-repeated, would be an order: the Order). My solitude is gladdened by
-this elegant hope. []()[(4)](#footnote4)\
-      *Translated by J. E. I.*\
+this elegant hope. <sup>[(4)](#footnote4)</sup>
+
+*Translated by J. E. I.*
      
 
 ------------------------------------------------------------------------
@@ -275,22 +280,25 @@ this elegant hope. []()[(4)](#footnote4)\
 
 ------------------------------------------------------------------------
 
-      []()[**1**](#footnote1b) The original manuscript does not contain
+<a name="#footnote1">1</a> The original manuscript does not contain
 digits or capital letters. The punctuation has been limited to the comma
 and the period. These two signs, the space and the twenty-two letters of
 the alphabet are the twenty-five symbols considered sufficient by this
-unknown author. *(Editor's note.)*\
-      []()[**2**](#footnote2b) Before, there was a man for every three
+unknown author. *(Editor's note.)*
+
+<a name="#footnote2">2</a> Before, there was a man for every three
 hexagons. Suicide and pulmonary diseases have destroyed that proportion.
 A memory of unspeakable melancholy: at times I have traveled for many
 nights through corridors and along polished stairways without finding a
-single librarian.\
-      []()[**3**](#footnote3b) I repeat: it suffices that a book be
+single librarian.
+
+<a name="#footnote3">3</a> I repeat: it suffices that a book be
 possible for it to exist. Only the impossible is excluded. For example:
 no book can be a ladder, although no doubt there are books which discuss
 and negate and demonstrate this possibility and others whose structure
-corresponds to that of a ladder.\
-      []()[**4**](#footnote4b) Letizia Álvarez de Toledo has observed
+corresponds to that of a ladder.
+
+<a name="#footnote4">4</a> Letizia Álvarez de Toledo has observed
 that this vast Library is useless: rigorously speaking, *a single
 volume* would be sufficient, a volume of ordinary format, printed in
 nine or ten point type, containing an infinite number if infinitely thin
