@@ -126,14 +126,14 @@ title, for example. You can do this with simple formatting codes that
 are similar to the double brackets of a link. Here is what's available
 to you:
 
-  Styling                Markup code            Result             HTML produced
-  ---------------------- ---------------------- ------------------ -----------------------------
-  Italics                `//text//`             *text*             `<i>text</i>`
-  Boldface               `''text''`             **text**           `<b>text</b>`
-  Deleted/spoiler text   `~~text~~`             ~~text~~           `<del>text</del>`
-  Emphasis               `*text*`               *text*             `<em>text</em>`
-  Strong emphasis        `**text**`             **text**           `<strong>text</strong>`
-  Superscript            `meters/second^^2^^`   meters/second^2^   `meters/second<sup>2</sup>`
+Styling|Markup code|Result|HTML produced
+---------------------|---------- | ---------------------- | ------------------ 
+Italics | `//text//` | *text* | `<i>text</i>`
+Boldface | `''text''` | **text** | `<b>text</b>`
+Deleted/spoiler text | `~~text~~` | ~~text~~ | `<del>text</del>`
+Emphasis | `*text*` | *text* | `<em>text</em>`
+Strong emphasis | `**text**` |  **text** | `<strong>text</strong>`
+Superscript | `meters/second^^2^^` | meters/second^2^ | `meters/second<sup>2</sup>`
 
 #### Example usage: {#example-usage-}
 
