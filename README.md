@@ -15,6 +15,7 @@ Ross Dalziel will present some of the games and tools [DomesticScience](http://d
 
 ### Workshop
 **1430-1545**
+*Chief Librarian's Office*
 
 Ross Dalziel will lead a workshop about how to make and distribute Interactive   Fiction and Non- Fiction through the writings of librarian and writer [Jorge Louis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)) using tools like [Twine](http://twinery.org/).
 
@@ -23,6 +24,8 @@ We will make simple games that could be applied to encourage reading, browsing a
 
 #### Requirements 
 
-* 4 computers/tablets per participant or 4 per pair of participants
-
+ * 8 laptops running Chrome
+ * 2 tablets
+ * Projector with VGA-in
+ * The Internet
 
