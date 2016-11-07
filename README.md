@@ -1,6 +1,6 @@
 ## The Library of Forking Paths
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Jorge_Luis_Borges_1951%2C_by_Grete_Stern.jpg" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Jorge_Luis_Borges_1951%2C_by_Grete_Stern.jpg" width="300">
 
 A talk, workshop, portal and source files to explore the work of librarian and writer of philosophical literature [Jorge_Luis_Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges) through the medium of Interactive Fiction for **Cracking The Code #2** at Manchester Central Library
 
