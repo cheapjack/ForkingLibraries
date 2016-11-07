@@ -280,25 +280,25 @@ this elegant hope. <sup>[(4)](#footnote4)</sup>
 
 ------------------------------------------------------------------------
 
-<a name="#footnote1">1</a> The original manuscript does not contain
+<a name="footnote1">1</a> The original manuscript does not contain
 digits or capital letters. The punctuation has been limited to the comma
 and the period. These two signs, the space and the twenty-two letters of
 the alphabet are the twenty-five symbols considered sufficient by this
 unknown author. *(Editor's note.)*
 
-<a name="#footnote2">2</a> Before, there was a man for every three
+<a name="footnote2">2</a> Before, there was a man for every three
 hexagons. Suicide and pulmonary diseases have destroyed that proportion.
 A memory of unspeakable melancholy: at times I have traveled for many
 nights through corridors and along polished stairways without finding a
 single librarian.
 
-<a name="#footnote3">3</a> I repeat: it suffices that a book be
+<a name="footnote3">3</a> I repeat: it suffices that a book be
 possible for it to exist. Only the impossible is excluded. For example:
 no book can be a ladder, although no doubt there are books which discuss
 and negate and demonstrate this possibility and others whose structure
 corresponds to that of a ladder.
 
-<a name="#footnote4">4</a> Letizia Álvarez de Toledo has observed
+<a name="footnote4">4</a> Letizia Álvarez de Toledo has observed
 that this vast Library is useless: rigorously speaking, *a single
 volume* would be sufficient, a volume of ordinary format, printed in
 nine or ten point type, containing an infinite number if infinitely thin
