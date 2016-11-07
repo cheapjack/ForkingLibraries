@@ -8,7 +8,13 @@ Inspired by 2 of Borges stories, ["The Garden of Forking Paths"](https://en.wiki
 
 Workshoppers will learn how to make games like [Domestic Science have been making](http://domesticscience.org.uk/games.html)
 
+### Tabletop Demos
+**11.45-1300**
+
+Ross Dalziel will present some of the games and tools [DomesticScience](http://domesticscience.org.uk) have been making with Interactive Fiction and Non-Fiction, using Twine, ESP8266 boards and Raspberry Pis at 
+
 ### Workshop
+**1430-1545**
 
 Ross Dalziel will lead a workshop about how to make and distribute Interactive   Fiction and Non- Fiction through the writings of librarian and writer [Jorge Louis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)) using tools like [Twine](http://twinery.org/).
 
@@ -18,9 +24,5 @@ We will make simple games that could be applied to encourage reading, browsing a
 #### Requirements 
 
 * 4 computers/tablets per participant or 4 per pair of participants
-
-### Talk
-
-Ross Dalziel will do a talk about [DomesticScience](http://domesticscience.org.uk) and Interactive Fiction and Non-Fiction using the medium of Interactive Fiction, using Twine and the writing of Jorge Luis Borges.
 
 
