@@ -2,7 +2,7 @@ A simple book check-in system for [Cracking The Code event](http://goscl.com/cra
 
 Add the code below to a passage in Twine called `checkin` and make your `Start` passage link to it with `[[add a book to the library|checkin]]`
 
-'''
+```
 <!--un comment this for debugging
 $firstcheckin-->
 (if: $firstcheckin is not 1)[
@@ -20,7 +20,7 @@ Great now this library has something readable called (print: $books)
 (set: $firstcheckin to 1)
 <!--un comment this for debuggingThe firstcheckin var is now (print: $firstcheckin)-->
 
-'''
+```
 
 
 
