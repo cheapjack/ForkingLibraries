@@ -14,7 +14,7 @@ Workshoppers will learn how to make games like [Domestic Science have been makin
 
 [Games](http://pinboard.in/u:cheapjack/t:twine/t:games)
 
-[Cracking The Code Links](http://pinboard.in/u:cheapjack/t:twine/t:games)
+[Cracking The Code Links](http://pinboard.in/u:cheapjack/t:crackingthecode)
 
 ### Tabletop Demos
 **11.45-1300**
