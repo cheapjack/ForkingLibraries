@@ -2,6 +2,8 @@ A simple book check-in system for [Cracking The Code event](http://goscl.com/cra
 
 Add the code below to a passage in Twine called `checkin` and make your `Start` passage link to it with `[[add a book to the library|checkin]]`
 
+### checkin
+
 ```
 <!--un comment this for debugging
 $firstcheckin-->

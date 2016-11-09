@@ -6,7 +6,13 @@ A talk, workshop, portal and source files to explore the work of librarian and w
 
 Inspired by 2 of Borges stories, ["The Garden of Forking Paths"](https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths) and ["The Library of Babel"](https://en.wikipedia.org/wiki/The_Library_of_Babel) 
 
-Workshoppers will learn how to make games like [Domestic Science have been making](http://domesticscience.org.uk/games.html)
+Workshoppers will learn how to make games like [Domestic Science have been making](http://domesticscience.org.uk/library.html)
+
+### Useful Twine links
+
+[Tools](http://pinboard.in/u:cheapjack/t:twine/t:tools)
+[Games](http://pinboard.in/u:cheapjack/t:twine/t:games)
+[Cracking The Code Links](http://pinboard.in/u:cheapjack/t:twine/t:games)
 
 ### Tabletop Demos
 **11.45-1300**
