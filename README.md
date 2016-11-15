@@ -27,7 +27,7 @@ Ross Dalziel will present some of the games and tools [DomesticScience](http://d
 
 Play the [Library Of Babel Demo Game](http://domesticscience.org.uk/library.html)
 
-Ross Dalziel will lead a workshop about how to make and distribute Interactive   Fiction and Non- Fiction through the writings of librarian and writer [Jorge Louis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)) using tools like [Twine](http://twinery.org/).
+Ross Dalziel will lead a workshop about how to make and distribute Interactive   Fiction and Non- Fiction through the writings of librarian and writer [Jorge Louis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges) using tools like [Twine](http://twinery.org/).
 
 We will make simple games that could be applied to encourage reading, browsing and discovery in library spaces. We will make a virtual library based on 2 of Borges stories, ["The Garden of Forking Paths"](https://en.wikipedia.org/wiki/The_Garden_of_Forking_Paths) and ["The Library of Babel"](https://en.wikipedia.org/wiki/The_Library_of_Babel)
 
@@ -38,4 +38,15 @@ We will make simple games that could be applied to encourage reading, browsing a
  * 2 tablets
  * Projector with VGA-in
  * The Internet
+
+### Thanks
+
+The demo game *The Library of Forking Paths* links to a game and service that are realisations of the Library of Babel world. They are both really inspiring and I think show the real possibilities of working with literature, reading and the *digital* and have led me to think about building an **arcade for librarians**
+
+[The Library of Forking Paths](http://domesticscience.org.uk/library.html)
+
+[Library of Babel As A Service](https://libraryofbabel.info/) by [Jonothan Basile](https://twitter.com/JonotrainEB)
+
+[Babelium](http://100r.co/projects/babelium/index.html) by [xxiivv](http://wiki.xxiivv.com)
+
 
