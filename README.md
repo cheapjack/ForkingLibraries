@@ -1,5 +1,7 @@
 ## The Library of Forking Paths
 
+![No of Participants](https://img.shields.io/badge/participants-20-brightgreen.svg)
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Jorge_Luis_Borges_1951%2C_by_Grete_Stern.jpg" width="300">
 
 A talk, workshop, portal and source files to explore the work of librarian and writer of philosophical literature [Jorge_Luis_Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges) through the medium of Interactive Fiction for [Cracking The Code #2](http://goscl.com/cracking-the-code-november/) at Manchester Central Library by [Domestic Science](http://domesticscience.org.uk) artist [Ross Dalziel](http://cheapjack.org.uk)
